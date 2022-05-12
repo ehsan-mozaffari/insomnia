@@ -1,0 +1,21 @@
+_id: req_15221633ace943b5a932e9c0b9b97197
+type: Request
+parentId: wrk_9379f34081b54eee836a368cd11d6112
+modified: 1652352593587
+created: 1652352090446
+url: https://v2.jokeapi.dev/joke/Programming
+name: JokeAPI test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652352090447
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
